@@ -1,19 +1,27 @@
-# title(){return this.options.title||this.options.name}
+# Digital Business Card
 
-Quick start:
+Starting with a Figma design, I recreated a digital business card in React.
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
 
-## Development
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+## Beginning Design
 
-```
-$ yarn watch # npm run watch
-```
+![Starting from](/Screenshots/beginning_screenshot.png)
+
+
+## Finished Product
+
+![Finished Product](Screenshots/finished_screenshot.png)
+
+
+
+
+This was a Scrimba solo project.
+
+
+
+
+
 
 ## Supporting Scrimba
 
